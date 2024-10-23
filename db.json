@@ -1,0 +1,14 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"deepak",
+            "email":"dp08991"
+        },
+        {
+            "id":2,
+            "name":"deepak",
+            "email":"dp08991"
+        }
+    ]
+}
